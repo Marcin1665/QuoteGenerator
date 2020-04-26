@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuoteGenerator</string>
+    <string name="generate_your_quote">Generate your quote</string>
+    <string name="generate">Generate</string>
+    <string name="share">Share</string>
+
+    <string-array name="quotes">
+        <item>I am the wisest man alive, for I know one thing, and that is that I know nothing.</item>
+        <item>Suspecting and knowing are not the same.</item>
+        <item>Even though there are no ways of knowing for sure, there are ways of knowing for pretty sure.</item>
+        <item>If you believe you can, you might. If you know you can, you will.</item>
+        <item>Only ignorance excuses stupidity.</item>
+        <item>Knowing and feeling are two different things, and feeling is what counts.</item>
+        <item>Knowing it and seeing it are two different things.</item>
+        <item>The pain of not knowing what to do was exceeded only by that of knowing what I had done.</item>
+    </string-array>
+
+    <string-array name="authors">
+        <item>Plato</item>
+        <item>Rick Riordan</item>
+        <item>Steve Maraboli</item>
+        <item>Nalini Singh</item>
+        <item>Suzanne Collins</item>
+        <item>François Lelord</item>
+        <item>Erich Segal</item>
+    </string-array>
+
+
+</resources>
